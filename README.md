@@ -1,1 +1,2 @@
-# my-second-repo
+Ez a második létrehozott repom. 
+
